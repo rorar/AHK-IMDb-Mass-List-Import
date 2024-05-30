@@ -13,3 +13,6 @@ This very basic Autohotkey Script allows you to import Movies based on title or 
 This script is a basic example and may need to be adjusted based on your specific requirements and environment.
 You may need to adjust the sleep times and key presses based on your browser, internet connection and system settings.
 Tested on Chrome / Chromium browser. Note: This script uses the AutoHotkey v2 syntax.
+
+## Tipps and Tricks
+If a website provides a list of IMDb Links, use the Chrome Extension "Link Grabber" and filter the results. Afterwards strip down unwanted URL parts and keep the format like "tt0120382".
