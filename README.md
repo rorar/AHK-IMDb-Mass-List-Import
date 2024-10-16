@@ -16,4 +16,4 @@ Tested on Chrome / Chromium browser. Note: This script uses the AutoHotkey v2 sy
 
 ## Tipps and Tricks
 - If a website provides a list of IMDb Links, use the Chrome Extension "Link Grabber" and filter the results. Afterwards strip down unwanted URL parts and keep the format like "tt0120382".
-- Do not use external Links / URLs inside your IMDb List, otherwise it gets unlisted / set to private without notice - even the list is set on public.
+- Do not use external Links / URLs inside your IMDb List description, otherwise it gets unlisted / set to private without notice - even the list is set on public.
